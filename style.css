@@ -1,0 +1,9 @@
+body {
+    /* background-color: rgb(163, 163, 222); */
+    background-image: url(../src/imagens/perfil2.jpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color:rgb(56, 128, 104)
+}
